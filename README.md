@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Vanvill027
-- 👀 I’m interested in Music, Video Games and Technology
-- 📫 How to reach me? 
+Alo_B_23241075
 
 <!---
 Vanvill027/Vanvill027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
