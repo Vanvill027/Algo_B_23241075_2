@@ -1,4 +1,4 @@
-Alo_B_23241075
+Algo_B_23241075
 
 <!---
 Vanvill027/Vanvill027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
