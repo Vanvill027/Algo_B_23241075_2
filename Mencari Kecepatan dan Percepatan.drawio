@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T05:02:11.546Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.7" etag="x5TI4Ij66KUbVw-k4C5r" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T06:17:22.737Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="qraGjYc9ArHQaolXhd6c" version="22.1.7" type="github">
   <diagram name="Halaman-1" id="Fd3C7OAZHPI9BMx9mDI5">
-    <mxGraphModel>
+    <mxGraphModel dx="568" dy="288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AQYMuwVLcjyTu9FVadUK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AQYMuwVLcjyTu9FVadUK-1" target="AQYMuwVLcjyTu9FVadUK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AQYMuwVLcjyTu9FVadUK-1" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="90" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AQYMuwVLcjyTu9FVadUK-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AQYMuwVLcjyTu9FVadUK-2" target="AQYMuwVLcjyTu9FVadUK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AQYMuwVLcjyTu9FVadUK-2" value="s = 15 km&lt;br&gt;t = 10 menit atau 1/6 jam" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="210" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AQYMuwVLcjyTu9FVadUK-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AQYMuwVLcjyTu9FVadUK-4" target="AQYMuwVLcjyTu9FVadUK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AQYMuwVLcjyTu9FVadUK-4" value="v = s/t" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="130" y="330" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AQYMuwVLcjyTu9FVadUK-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AQYMuwVLcjyTu9FVadUK-6" target="AQYMuwVLcjyTu9FVadUK-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AQYMuwVLcjyTu9FVadUK-6" value="v = Kecepatan (m/s)&lt;br&gt;s = Jarak (km)&lt;br&gt;t = Waktu (jam)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="440" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AQYMuwVLcjyTu9FVadUK-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AQYMuwVLcjyTu9FVadUK-8" target="AQYMuwVLcjyTu9FVadUK-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AQYMuwVLcjyTu9FVadUK-8" value="v = 15/1/6" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;arcSize=14;strokeWidth=2;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AQYMuwVLcjyTu9FVadUK-10" value="v = 90 (m/s)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;arcSize=14;strokeWidth=2;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
