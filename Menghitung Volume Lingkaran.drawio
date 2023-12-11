@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T05:05:56.118Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="lbMn86ycbDrirM_5cRl7" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T05:34:41.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="HeJZtCiCli4K1v-NBkyB" version="22.1.7" type="github">
   <diagram name="Halaman-1" id="KOy_Ci9huCZcaGlgWq4v">
-    <mxGraphModel dx="704" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="978" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,22 +14,55 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tXMpjYF7gjh7UblVH9AT-3" value="VOLUME&lt;br&gt;LINGKARAN&lt;br&gt;phi&lt;br&gt;r" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="120" y="200" width="120" height="80" as="geometry" />
+          <mxGeometry x="110" y="200" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tXMpjYF7gjh7UblVH9AT-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tXMpjYF7gjh7UblVH9AT-5" target="tXMpjYF7gjh7UblVH9AT-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tXMpjYF7gjh7UblVH9AT-5" value="V = (4/3) * phi * r^3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="130" y="350" width="100" height="100" as="geometry" />
+          <mxGeometry x="110" y="330" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tXMpjYF7gjh7UblVH9AT-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tXMpjYF7gjh7UblVH9AT-7" target="tXMpjYF7gjh7UblVH9AT-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tXMpjYF7gjh7UblVH9AT-7" value="VOLUME LINGKARAN" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="120" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tXMpjYF7gjh7UblVH9AT-9" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="130" y="610" width="100" height="60" as="geometry" />
+          <mxGeometry x="130" y="530" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXMpjYF7gjh7UblVH9AT-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tXMpjYF7gjh7UblVH9AT-12" target="tXMpjYF7gjh7UblVH9AT-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tXMpjYF7gjh7UblVH9AT-12" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="90" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXMpjYF7gjh7UblVH9AT-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tXMpjYF7gjh7UblVH9AT-14" target="tXMpjYF7gjh7UblVH9AT-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tXMpjYF7gjh7UblVH9AT-14" value="VOLUME&lt;br&gt;LINGKARAN&lt;br&gt;phi&lt;br&gt;r" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="530" y="300" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tXMpjYF7gjh7UblVH9AT-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tXMpjYF7gjh7UblVH9AT-16" target="tXMpjYF7gjh7UblVH9AT-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tXMpjYF7gjh7UblVH9AT-16" value="V = (4/3) * phi * r^3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="530" y="430" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXMpjYF7gjh7UblVH9AT-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tXMpjYF7gjh7UblVH9AT-18" target="tXMpjYF7gjh7UblVH9AT-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tXMpjYF7gjh7UblVH9AT-18" value="VOLUME LINGKARAN" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXMpjYF7gjh7UblVH9AT-19" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="630" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXMpjYF7gjh7UblVH9AT-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tXMpjYF7gjh7UblVH9AT-22" target="tXMpjYF7gjh7UblVH9AT-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tXMpjYF7gjh7UblVH9AT-22" value="phi = 22/7" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;" vertex="1" parent="1">
+          <mxGeometry x="550" y="190" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
